@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(10925,9): warning C4005: LoadImage: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+      D:\Колледж\Основы алгоритмизации\Курсовой проект\SolarCalc\Project\Project\main.cpp(16,9):
+      см. предыдущее определение "LoadImage"
+  
+  Создание кода
+  2 of 1794 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    39 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Project.vcxproj -> D:\Колледж\Основы алгоритмизации\Курсовой проект\SolarCalc\Project\x64\Release\SolarCalc.exe
